@@ -1,4 +1,4 @@
-module.exports = {
+{
   "env": {
     "node": true
   },
@@ -46,9 +46,6 @@ module.exports = {
     "@typescript-eslint/interface-name-prefix": 0,
     "@typescript-eslint/ban-types": 0,
     "@typescript-eslint/no-namespace": 0,
-    "react/display-name": 0,
-    "react/prop-types": 0,
-    "react-hooks/exhaustive-deps": 0,
     "import/no-unresolved": [
       2, 
       {
@@ -61,7 +58,6 @@ module.exports = {
     "import/namespace": 2,
     "import/default": 2,
     "import/export": 2,
-    "import/order": 2,
-    "react-native/no-inline-styles": 0
+    "import/order": 2
   }
 }
