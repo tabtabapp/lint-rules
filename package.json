@@ -1,6 +1,6 @@
 {
   "name": "@tabtabapp/lint-rules",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Linting rules for TabTab",
   "main": "server/index.js",
   "scripts": {
