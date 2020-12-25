@@ -1,0 +1,17 @@
+{
+  "env": {
+    "node": true
+  },
+  "extends": [
+    "../base/.eslintrc",
+    "plugin:react/recommended"
+  ],
+  "plugins": [
+    "react"
+  ],
+  "parserOptions": {
+    "ecmaFeatures": {
+      "jsx": true
+    }
+  }
+}
