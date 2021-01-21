@@ -51,6 +51,7 @@
         "caseSensitive": false
       }
     ],
+    "import/no-extraneous-dependencies": 2,
     "import/named": 2,
     "import/namespace": 2,
     "import/default": 2,
